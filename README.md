@@ -6,7 +6,7 @@ A simple and interactive tool built with **Streamlit** and **Python** to analyze
 
 ## 🔗 Project Links
 
-- 🔧 GitHub Repository: [https://github.com/saharsh3008/whatsapp-analyzer](https://github.com/saharsh3008/whatsapp-analyzer)  
+- 🔧 GitHub Repository: [https://github.com/saharsh3008/project_whatsapp-analyzer](https://github.com/saharsh3008/project_whatsapp-analyzer)  
 - 🌐 Live Project: [https://analyzerpro.streamlit.app/](https://analyzerpro.streamlit.app/)
 
 ---
